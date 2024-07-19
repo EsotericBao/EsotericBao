@@ -1,4 +1,5 @@
-## Hi there ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg) 👋
+## Hi there 
+![visitor badge](https://vbr.nathanchung.dev/badge?page_id=EsotericBao&color=FFA500&lcolor=2b35af) 👋
 
 <!--
 **EsotericBao/EsotericBao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
